@@ -2,6 +2,15 @@ from fastapi import FastAPI, HTTPException
 
 app = FastAPI()
 
+from fastapi.middleware.cors import CORSMiddleware
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 @app.get("/calcular")
 def calcular(bairro: str, area: float, quartos: int, vagas: int):
     resultado = calcular_valor_m2(bairro)
@@ -13,6 +22,7 @@ def calcular(bairro: str, area: float, quartos: int, vagas: int):
 
 @app.get("/valor-m2")
 def calcular_valor_m2(bairro: str):
+    bairro = bairro.title()
     valores_m2 = {
         "Centro": 10000,
         "Batel": 12000,
