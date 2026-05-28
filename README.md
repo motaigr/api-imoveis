@@ -53,4 +53,8 @@ Exemplo de resposta:
 
 ## 🌐 Demo
 
-Acesse o projeto em produção: [front-skip.vercel.app](https://front-skip.vercel.app)
+Documentação da API: [api-imoveis-prpm.onrender.com/docs](https://api-imoveis-prpm.onrender.com/docs)
+
+## 🔗 Frontend
+
+Interface conectada a esta API: [front-skip.vercel.app](https://front-skip.vercel.app)
