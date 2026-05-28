@@ -37,7 +37,8 @@ Exemplo de resposta:
   "bairro": "Batel",
   "area": 80,
   "quartos": 3,
-  "preco_sugerido": 1008000.0
+  "vagas": 1,
+  "preco_sugerido": 1049640.0
 }
 
 ### GET /valor-m2
