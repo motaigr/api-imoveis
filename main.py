@@ -18,7 +18,8 @@ def calcular(bairro: str, area: float, quartos: int, vagas: int):
     fator_quartos = 1.0 + (quartos - 2) * 0.05
     fator_vagas = 1.0 + vagas * 0.03
     preco = area * valor_m2 * fator_quartos * fator_vagas
-    return {"bairro": bairro, "area": area, "quartos": quartos, "vagas": vagas, "preco_sugerido": preco}
+    preco_m2 = preco / area
+    return {"bairro": bairro, "area": area, "quartos": quartos, "vagas": vagas, "preco_sugerido": preco, "preco_m2": preco_m2}
 
 @app.get("/valor-m2")
 def calcular_valor_m2(bairro: str):
