@@ -1,0 +1,434 @@
+[
+  {
+    "bairro": "Água Verde",
+    "valor_m2_apartamento": 12178,
+    "valor_m2_casa": 7950,
+    "valor_m2_comercial": 8500,
+    "aluguel_m2": 50,
+    "perfil": "alto padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Ahú",
+    "valor_m2_apartamento": 13022,
+    "valor_m2_casa": 9100,
+    "valor_m2_comercial": null,
+    "aluguel_m2": 55,
+    "perfil": "alto padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal"
+    ]
+  },
+  {
+    "bairro": "Alto da Glória",
+    "valor_m2_apartamento": 11850,
+    "valor_m2_casa": null,
+    "valor_m2_comercial": 9200,
+    "aluguel_m2": 66,
+    "perfil": "alto padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal"
+    ]
+  },
+  {
+    "bairro": "Alto da XV",
+    "valor_m2_apartamento": 10550,
+    "valor_m2_casa": 8600,
+    "valor_m2_comercial": 9500,
+    "aluguel_m2": 55,
+    "perfil": "alto padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal"
+    ]
+  },
+  {
+    "bairro": "Batel",
+    "valor_m2_apartamento": 17924,
+    "valor_m2_casa": 12500,
+    "valor_m2_comercial": 14200,
+    "aluguel_m2": 65,
+    "perfil": "luxo",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "Chaves na Mão"
+    ]
+  },
+  {
+    "bairro": "Boa Vista",
+    "valor_m2_apartamento": 7680,
+    "valor_m2_casa": 6200,
+    "valor_m2_comercial": 6800,
+    "aluguel_m2": 41,
+    "perfil": "médio padrão",
+    "tendencia": "estável",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Boqueirão",
+    "valor_m2_apartamento": 6850,
+    "valor_m2_casa": 5500,
+    "valor_m2_comercial": 5800,
+    "aluguel_m2": 36,
+    "perfil": "médio padrão",
+    "tendencia": "estável",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Cabral",
+    "valor_m2_apartamento": 12145,
+    "valor_m2_casa": 8500,
+    "valor_m2_comercial": 10000,
+    "aluguel_m2": 50,
+    "perfil": "alto padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "Chaves na Mão"
+    ]
+  },
+  {
+    "bairro": "Campo Comprido",
+    "valor_m2_apartamento": 8100,
+    "valor_m2_casa": 8000,
+    "valor_m2_comercial": 7500,
+    "aluguel_m2": 45,
+    "perfil": "médio padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Centro",
+    "valor_m2_apartamento": 10820,
+    "valor_m2_casa": null,
+    "valor_m2_comercial": 8500,
+    "aluguel_m2": 48,
+    "perfil": "médio padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Centro Cívico",
+    "valor_m2_apartamento": 11000,
+    "valor_m2_casa": null,
+    "valor_m2_comercial": 10000,
+    "aluguel_m2": 52,
+    "perfil": "alto padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal"
+    ]
+  },
+  {
+    "bairro": "Cristo Rei",
+    "valor_m2_apartamento": 9343,
+    "valor_m2_casa": 7000,
+    "valor_m2_comercial": 7500,
+    "aluguel_m2": 45,
+    "perfil": "médio padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Ecoville",
+    "valor_m2_apartamento": 12750,
+    "valor_m2_casa": 9500,
+    "valor_m2_comercial": 10500,
+    "aluguel_m2": 57,
+    "perfil": "alto padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Fazendinha",
+    "valor_m2_apartamento": 8000,
+    "valor_m2_casa": 5500,
+    "valor_m2_comercial": 6000,
+    "aluguel_m2": 35,
+    "perfil": "médio padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Hugo Lange",
+    "valor_m2_apartamento": 11610,
+    "valor_m2_casa": 8500,
+    "valor_m2_comercial": 9000,
+    "aluguel_m2": 47,
+    "perfil": "alto padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal"
+    ]
+  },
+  {
+    "bairro": "Jardim Botânico",
+    "valor_m2_apartamento": 5850,
+    "valor_m2_casa": 5000,
+    "valor_m2_comercial": 5500,
+    "aluguel_m2": 42,
+    "perfil": "médio padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Jardim das Américas",
+    "valor_m2_apartamento": 9000,
+    "valor_m2_casa": 7000,
+    "valor_m2_comercial": 7500,
+    "aluguel_m2": 43,
+    "perfil": "médio padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Juvevê",
+    "valor_m2_apartamento": 13897,
+    "valor_m2_casa": 9500,
+    "valor_m2_comercial": 11000,
+    "aluguel_m2": 58,
+    "perfil": "alto padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "Chaves na Mão"
+    ]
+  },
+  {
+    "bairro": "Mercês",
+    "valor_m2_apartamento": 10600,
+    "valor_m2_casa": 7500,
+    "valor_m2_comercial": 8500,
+    "aluguel_m2": 46,
+    "perfil": "alto padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal"
+    ]
+  },
+  {
+    "bairro": "Mossunguê",
+    "valor_m2_apartamento": 12750,
+    "valor_m2_casa": 9500,
+    "valor_m2_comercial": 10500,
+    "aluguel_m2": 57,
+    "perfil": "alto padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Novo Mundo",
+    "valor_m2_apartamento": 7085,
+    "valor_m2_casa": 5200,
+    "valor_m2_comercial": 6000,
+    "aluguel_m2": 35,
+    "perfil": "médio padrão",
+    "tendencia": "estável",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Pinheirinho",
+    "valor_m2_apartamento": 6115,
+    "valor_m2_casa": 4500,
+    "valor_m2_comercial": 5000,
+    "aluguel_m2": 37,
+    "perfil": "popular",
+    "tendencia": "estável",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX",
+      "Chaves na Mão"
+    ]
+  },
+  {
+    "bairro": "Portão",
+    "valor_m2_apartamento": 10028,
+    "valor_m2_casa": 6500,
+    "valor_m2_comercial": 7500,
+    "aluguel_m2": 42,
+    "perfil": "médio padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX",
+      "Chaves na Mão"
+    ]
+  },
+  {
+    "bairro": "Rebouças",
+    "valor_m2_apartamento": 9900,
+    "valor_m2_casa": 6500,
+    "valor_m2_comercial": 8500,
+    "aluguel_m2": 45,
+    "perfil": "médio padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Santa Felicidade",
+    "valor_m2_apartamento": 7650,
+    "valor_m2_casa": 7500,
+    "valor_m2_comercial": 6500,
+    "aluguel_m2": 38,
+    "perfil": "médio padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX",
+      "Chaves na Mão"
+    ]
+  },
+  {
+    "bairro": "Santa Quitéria",
+    "valor_m2_apartamento": 6550,
+    "valor_m2_casa": 5800,
+    "valor_m2_comercial": 6000,
+    "aluguel_m2": 35,
+    "perfil": "médio padrão",
+    "tendencia": "estável",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Seminário",
+    "valor_m2_apartamento": 11170,
+    "valor_m2_casa": 8500,
+    "valor_m2_comercial": 9500,
+    "aluguel_m2": 48,
+    "perfil": "alto padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal"
+    ]
+  },
+  {
+    "bairro": "Tarumã",
+    "valor_m2_apartamento": 7727,
+    "valor_m2_casa": 6500,
+    "valor_m2_comercial": 7000,
+    "aluguel_m2": 38,
+    "perfil": "médio padrão",
+    "tendencia": "estável",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Uberaba",
+    "valor_m2_apartamento": 6430,
+    "valor_m2_casa": 5200,
+    "valor_m2_comercial": 5500,
+    "aluguel_m2": 32,
+    "perfil": "popular",
+    "tendencia": "estável",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX",
+      "Chaves na Mão"
+    ]
+  },
+  {
+    "bairro": "Vila Izabel",
+    "valor_m2_apartamento": 8860,
+    "valor_m2_casa": 7500,
+    "valor_m2_comercial": 8000,
+    "aluguel_m2": 43,
+    "perfil": "médio padrão",
+    "tendencia": "valorização",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX"
+    ]
+  },
+  {
+    "bairro": "Xaxim",
+    "valor_m2_apartamento": 6850,
+    "valor_m2_casa": 4800,
+    "valor_m2_comercial": 5500,
+    "aluguel_m2": 32,
+    "perfil": "médio padrão",
+    "tendencia": "estável",
+    "fontes": [
+      "ZAP Imóveis",
+      "VivaReal",
+      "OLX",
+      "Chaves na Mão"
+    ]
+  }
+]
